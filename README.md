@@ -6,7 +6,7 @@
  </p>
 
  <p align="center">
-    <img alt="print" src=".github/print.png"  width="500px">
+    <img alt="print" src="print.png"  width="500px">
  </p>
 
  ## :rocket: Technologies
